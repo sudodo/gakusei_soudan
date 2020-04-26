@@ -5,8 +5,8 @@
  
 
 # 必要な環境
-Python 2
-必要なパッケージ　Pandas
+- Python 2
+- pandas
 
 # スクリプトの仕様と利用手順
 
